@@ -1,0 +1,252 @@
+{
+ "Cobilândia": {
+  "lat": -20.3551387,
+  "lng": -40.3561374,
+  "name": "Cobilândia, Ibes, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Nova Cobilândia": {
+  "lat": -20.3771595,
+  "lng": -40.3504835,
+  "name": "Avenida Nova Venécia, Loteamento Laguna Park, Região 04 - Grande Cobilândia, Ibe"
+ },
+ "Cobi de Baixo": {
+  "lat": -20.3364206,
+  "lng": -40.3539197,
+  "name": "Cobi de Baixo, São Torquato, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Rio Marinho": {
+  "lat": -20.3636031,
+  "lng": -40.362686,
+  "name": "Rio Marinho, Região 04 - Grande Cobilândia, Ibes, Itaquari, Vila Velha, Espírito"
+ },
+ "Nova América": {
+  "lat": -20.3449678,
+  "lng": -40.3552621,
+  "name": "Nova América, São Torquato, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "São Torquato": {
+  "lat": -20.331975,
+  "lng": -40.350409,
+  "name": "São Torquato, IBES, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Terra Vermelha": {
+  "lat": -20.4434487,
+  "lng": -40.3514806,
+  "name": "Terra Vermelha, Jucu, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Barramares": {
+  "lat": -20.4376532,
+  "lng": -40.3475626,
+  "name": "Barramares, Jucu, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "São Conrado": {
+  "lat": -20.4391836,
+  "lng": -40.3350622,
+  "name": "São Conrado, Região 05 - Grande Jucu, Jucu, Vila Velha, Espírito Santo, Região S"
+ },
+ "Ulisses Guimarães": {
+  "lat": -20.4459972,
+  "lng": -40.3392397,
+  "name": "Ulisses Guimarães, Jucu, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Vinte e Três de Maio": {
+  "lat": -20.4483512,
+  "lng": -40.3350476,
+  "name": "Vinte e Três de Maio, Região 05 - Grande Jucu, Jucu, Vila Velha, Espírito Santo,"
+ },
+ "Cidade da Barra": {
+  "lat": -20.435781,
+  "lng": -40.3391839,
+  "name": "Cidade da Barra, Região 05 - Grande Jucu, Jucu, Vila Velha, Espírito Santo, Regi"
+ },
+ "Riviera da Barra": {
+  "lat": -20.4304209,
+  "lng": -40.3383542,
+  "name": "Riviera da Barra, Jucu, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Santa Paula": {
+  "lat": -20.4166367,
+  "lng": -40.3387115,
+  "name": "Santa Paula II, Jucu, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "João Goulart": {
+  "lat": -20.440263,
+  "lng": -40.3556167,
+  "name": "João Goulart, Região 05 - Grande Jucu, Jucu, Vila Velha, Espírito Santo, Região "
+ },
+ "Normília da Cunha": {
+  "lat": -20.4485936,
+  "lng": -40.3538179,
+  "name": "Normília da Cunha, Jucu, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Morada da Barra": {
+  "lat": -20.4347193,
+  "lng": -40.3640313,
+  "name": "Morada da Barra, Jucu, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Pontal das Garças": {
+  "lat": -20.3938889,
+  "lng": -40.3389649,
+  "name": "Pontal das Garças, Ibes, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Darly Santos": {
+  "lat": -20.3891106,
+  "lng": -40.3380391,
+  "name": "Darly Santos, Ibes, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Barra do Jucu": {
+  "lat": -20.4285117,
+  "lng": -40.3251852,
+  "name": "Barra do Jucu, Jucu, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Jardim Guaranhuns": {
+  "lat": -20.3823213,
+  "lng": -40.3213106,
+  "name": "Jardim Guaranhuns, Ibes, IBES, Vila Velha, Espírito Santo, Região Sudeste, Brasi"
+ },
+ "Guaranhuns": {
+  "lat": -20.3791424,
+  "lng": -40.3206261,
+  "name": "Guaranhuns, Ibes, IBES, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Araçás": {
+  "lat": -20.3864066,
+  "lng": -40.3257043,
+  "name": "Araçás, Ibes, IBES, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Ilha dos Bentos": {
+  "lat": -20.369746,
+  "lng": -40.3150212,
+  "name": "Ilha dos Bentos, Ibes, IBES, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Santa Mônica": {
+  "lat": -20.3634229,
+  "lng": -40.3073659,
+  "name": "Santa Mônica, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Nossa Senhora da Penha": {
+  "lat": -20.3516776,
+  "lng": -40.3205466,
+  "name": "Nossa Senhora da Penha, Ibes, IBES, Vila Velha, Espírito Santo, Região Sudeste, "
+ },
+ "Ibes": {
+  "lat": -20.3509495,
+  "lng": -40.314705,
+  "name": "Ibes, IBES, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Centro": {
+  "lat": -20.3363655,
+  "lng": -40.2935825,
+  "name": "Região 01 - Centro, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Glória": {
+  "lat": -20.3362861,
+  "lng": -40.3079253,
+  "name": "Glória, Região 01 - Centro, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Itapuã": {
+  "lat": -20.3522924,
+  "lng": -40.2896807,
+  "name": "Itapuã, Região 01 - Centro, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Praia da Costa": {
+  "lat": -20.3350315,
+  "lng": -40.2824025,
+  "name": "Praia da Costa, Região 01 - Centro, Vila Velha, Espírito Santo, Região Sudeste, "
+ },
+ "Jockey de Itaparica": {
+  "lat": -20.3881237,
+  "lng": -40.3175077,
+  "name": "Jockey de Itaparica, Região 01 - Centro, Vila Velha, Espírito Santo, Região Sude"
+ },
+ "Soteco": {
+  "lat": -20.3487274,
+  "lng": -40.3053031,
+  "name": "Soteco, Região 01 - Centro, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Divino Espírito Santo": {
+  "lat": -20.346953,
+  "lng": -40.2972838,
+  "name": "Divino Espírito Santo, Região 01 - Centro, Vila Velha, Espírito Santo, Região Su"
+ },
+ "Itaparica": {
+  "lat": -20.3715102,
+  "lng": -40.3025992,
+  "name": "Praia de Itaparica, Região 01 - Centro, Vila Velha, Espírito Santo, Região Sudes"
+ },
+ "Aribiri": {
+  "lat": -20.3415142,
+  "lng": -40.3166335,
+  "name": "Região 03 - Grande Aribiri, Aribiri, Vila Velha, Espírito Santo, Região Sudeste,"
+ },
+ "Zumbi dos Palmares": {
+  "lat": -20.349741,
+  "lng": -40.3345321,
+  "name": "Zumbi dos Palmares, Ibes, IBES, Vila Velha, Espírito Santo, Região Sudeste, Bras"
+ },
+ "Dom João Batista": {
+  "lat": -20.3362248,
+  "lng": -40.319475,
+  "name": "Dom João Batista, Ibes, IBES, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Santa Rita": {
+  "lat": -20.3464627,
+  "lng": -40.3333344,
+  "name": "Santa Rita, Ibes, IBES, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Ataíde": {
+  "lat": -20.3436454,
+  "lng": -40.3238591,
+  "name": "Ataíde, Ibes, IBES, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Primeiro de Maio": {
+  "lat": -20.3448777,
+  "lng": -40.3352353,
+  "name": "Primeiro de Maio, Ibes, IBES, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Coqueiral de Itaparica": {
+  "lat": -20.3635331,
+  "lng": -40.3038749,
+  "name": "Coqueiral de Itaparica, Região 01 - Centro, Vila Velha, Espírito Santo, Região S"
+ },
+ "Praia de Itaparica": {
+  "lat": -20.3715102,
+  "lng": -40.3025992,
+  "name": "Praia de Itaparica, Região 01 - Centro, Vila Velha, Espírito Santo, Região Sudes"
+ },
+ "Vista da Penha": {
+  "lat": -20.3522285,
+  "lng": -40.3002507,
+  "name": "Vista da Penha, Região 01 - Centro, Vila Velha, Espírito Santo, Região Sudeste, "
+ },
+ "Jabaeté": {
+  "lat": -20.4439438,
+  "lng": -40.3580586,
+  "name": "Jabaeté, Jucu, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Ponta da Fruta": {
+  "lat": -20.5078214,
+  "lng": -40.3614744,
+  "name": "Ponta da Fruta, Região 05 - Grande Jucu, Jucu, Vila Velha, Espírito Santo, Regiã"
+ },
+ "Praia dos Recifes": {
+  "lat": -20.4446828,
+  "lng": -40.33173,
+  "name": "Praia dos Recifes, Região 05 - Grande Jucu, Jucu, Vila Velha, Espírito Santo, Re"
+ },
+ "Morro da Lagoa": {
+  "lat": -20.4969272,
+  "lng": -40.3650331,
+  "name": "Morro da Lagoa, Jucu, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Interlagos": {
+  "lat": -20.4804082,
+  "lng": -40.3507383,
+  "name": "Interlagos, Jucu, Vila Velha, Espírito Santo, Região Sudeste, Brasil"
+ },
+ "Itapuera da Barra": {
+  "lat": -20.4026998,
+  "lng": -40.3370917,
+  "name": "Itapuera da Barra, Jucu, Vila Velha, Espírito Santo, Região Sudeste, 29126-252, "
+ }
+}

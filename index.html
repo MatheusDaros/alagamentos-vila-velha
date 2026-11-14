@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alagamentos · Vila Velha ES</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="brand">
+      <span class="dot"></span>
+      <div>
+        <h1>Zonas de alagamento · Vila Velha</h1>
+        <p>Mapeamento por incidência histórica — Defesa Civil (PMPDEC 2024), UVV e registros da PMVV</p>
+      </div>
+    </div>
+    <div class="stats" id="stats"></div>
+  </header>
+
+  <main>
+    <aside id="sidebar">
+      <div class="side-head">
+        <h2>Regiões</h2>
+        <span class="hint">clique para voar no mapa</span>
+      </div>
+      <div id="zoneList"></div>
+      <div class="sources">
+        <h3>Fontes</h3>
+        <ul>
+          <li>PMPDEC — Plano Municipal de Proteção e Defesa Civil de Vila Velha (5ª atualização, jul/2024)</li>
+          <li>Soares, F. (UVV, 2020) — análise de 100 reportagens 2009–2018 (A Gazeta + A Tribuna)</li>
+          <li>G1 ES (nov/2018) — "Décadas de alagamentos seguem sem solução em Vila Velha"</li>
+          <li>PMVV via ES365 (jan/2024) — lista oficial de pontos de alagamento</li>
+          <li>Posições dos bairros: centróides OpenStreetMap (aprox.)</li>
+        </ul>
+      </div>
+    </aside>
+
+    <div id="mapWrap">
+      <div id="map"></div>
+      <div class="legend" id="legend"></div>
+    </div>
+  </main>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
