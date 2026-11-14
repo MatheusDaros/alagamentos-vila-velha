@@ -7,9 +7,13 @@ const SEVERITY = {
 const map = L.map('map', { zoomControl: true, attributionControl: true })
   .setView([-20.385, -40.325], 12);
 
-L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-  attribution: '&copy; OpenStreetMap &copy; CARTO',
-  subdomains: 'abcd', maxZoom: 19,
+const ESRI = 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas';
+L.tileLayer(`${ESRI}/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}`, {
+  attribution: 'Tiles &copy; Esri &mdash; Esri, HERE, Garmin, &copy; OpenStreetMap',
+  maxZoom: 16,
+}).addTo(map);
+L.tileLayer(`${ESRI}/World_Dark_Gray_Reference/MapServer/tile/{z}/{y}/{x}`, {
+  maxZoom: 16, pane: 'shadowPane',
 }).addTo(map);
 
 // --- stats ---
